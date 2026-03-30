@@ -41,3 +41,7 @@ This application predicts a student's performance category based on their daily 
 *Program Displays:*
 * A performance prediction: *"Looks like you will do good,"* *"Maybe average performance,"* or *"Performance might be low."*
 * Specific suggestions based on the user's habits (e.g., "sleep a bit more").
+* <img width="1920" height="1080" alt="Screenshot (65)" src="https://github.com/user-attachments/assets/a362b934-df1b-45d0-92f8-7fd7b5e8e24f" />
+<img width="1920" height="1080" alt="Screenshot (67)" src="https://github.com/user-attachments/assets/9abf885e-e53b-4c04-83fe-ccfa075e3dd4" />
+
+
